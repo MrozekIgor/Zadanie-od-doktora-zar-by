@@ -826,6 +826,9 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Quantum Computing
 
 * [Introduction to Classical and Quantum Computing](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) - Thomas G. Wong (PDF)
+* [Quantum Computation and Quantum Infromation](https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf) - Michael A Nielsen
+* [The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/TQI.pdf) - John Watrous
+* [Quantum Computing Explained](https://cdn.oujdalibrary.com/books/997/997-quantum-computing-explained-(www.tawcer.com).pdf) - David McMahon
 * [Introduction to Quantum Information](https://www.gla.ac.uk/media/Media_344957_smxx.pdf) - Stephen M. Barnett (PDF)
 * [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) - Frank Harkins, et al. (HTML)
 * [Quantum Algorithms](https://arxiv.org/pdf/0808.0369v1) - Michele Mosca (PDF)
